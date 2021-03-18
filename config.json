@@ -1,0 +1,25 @@
+{
+	"token": "YOUR_TOKEN_GOES_HERE",
+	"prefix": "!",
+	
+	"users": [
+		{
+			"name": "User_1",
+			"id": "123456789012345678",
+			"audio_file_path": "./media/audio/example1.mp3"
+		},
+		
+		{
+			"name": "User_2",
+			"id": "123456789012345678",
+			"audio_file_path": "./media/audio/example2.mp3"
+		},
+		
+		{
+			"name": "User_3",
+			"id": "123456789012345678",
+			"audio_file_path": "./media/audio/example3.mp3"
+		}
+		
+	]
+}
